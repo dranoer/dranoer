@@ -1,4 +1,4 @@
-![Dranoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dranoer&show_icons=true&theme=chartreuse-dark) &nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dranoer&layout=compact&theme=chartreuse-dark)](https://github.com/dranoer/github-readme-stats)
+![Dranoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dranoer&show_icons=true&theme=chartreuse-dark) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dranoer&layout=compact&theme=chartreuse-dark)](https://github.com/dranoer/github-readme-stats)
 
 ### &nbsp;Social
 
