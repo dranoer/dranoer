@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
 
-![Dranoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dranoer&show_icons=true&theme=chartreuse-dark) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dranoer&layout=compact&theme=chartreuse-dark)](https://github.com/dranoer/github-readme-stats)
+<!-- ![Dranoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dranoer&show_icons=true&theme=chartreuse-dark) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dranoer&layout=compact&theme=chartreuse-dark)](https://github.com/dranoer/github-readme-stats) -->
 
 <!-- ### &nbsp;Social
 
