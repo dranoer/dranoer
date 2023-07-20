@@ -1,8 +1,6 @@
-### Well, Hey!
-This is Nazanin. I spend most of my time developing mobile apps cuz I enjoy how creative I can be when I code.
-- 🔭 I’m currently working in [IO Digital](https://iodigital.com)
 - 👯 I’m looking to collaborate on Kotlin, Java and Flutter Projects.
 - 💬 Talk to me about App Development, Software Architecture and Design Patterns.
+- 🔭 I’m currently working in [IO Digital](https://iodigital.com)
 - 📢 Here is my blog [dranoer.com](https://www.dranoer.com/)
 
 <a href="https://stackoverflow.com/users/8406709/nazanin-nasab?tab=topactivity">
