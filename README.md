@@ -1,3 +1,10 @@
+### Well, Hey!
+This is Nazanin. I spend most of my time developing mobile apps cuz I enjoy how creative I can be when I code.
+- 🔭 I’m currently working in [IO Digital](https://iodigital.com)
+- 👯 I’m looking to collaborate on Kotlin, Java and Flutter Projects.
+- 💬 Talk to me about App Development, Software Architecture and Design Patterns.
+- 📢 Here is my blog [dranoer.com](https://www.dranoer.com/)
+
 <a href="https://stackoverflow.com/users/8406709/nazanin-nasab?tab=topactivity">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 &nbsp;&nbsp;
@@ -7,6 +14,16 @@
 <a href="https://open.spotify.com/user/u8o26918va4wwwtdrbcz29lmw?si=ffd6734946884185">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
+<br><br>
+
+<p align="start">
+ <a href="#" alt="Nazanin's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dranoer&show_icons=true&theme=chartreuse-dark" />
+   &nbsp;&nbsp;&nbsp;&nbsp;    
+  <img src="https://github-readme-stats.vercel.app//api/top-langs/?username=dranoer&layout=compact&theme=chartreuse-dark" />
+ </a>
+</p>
+
 
 <!-- ![Dranoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dranoer&show_icons=true&theme=chartreuse-dark) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dranoer&layout=compact&theme=chartreuse-dark)](https://github.com/dranoer/github-readme-stats) -->
 
