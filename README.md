@@ -12,7 +12,6 @@
 <a href="https://open.spotify.com/user/u8o26918va4wwwtdrbcz29lmw?si=ffd6734946884185">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
-<br><br>
 
 <!--
 <p align="start">
@@ -24,12 +23,9 @@
 </p>
 -->
 
-
 <!-- ### &nbsp;Social
 
 <p align="center"> -->
-
-
 
 <!--
 **dranoer/dranoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
