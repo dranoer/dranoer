@@ -1,3 +1,4 @@
+I am fond of development for android!
 - 👯 I’m looking to collaborate on Kotlin, Java and Flutter Projects.
 - 💬 Talk to me about App Development, Software Architecture and Design Patterns.
 - 🔭 I’m currently working in [Infoplaza](https://www.infoplaza.com/nl/)
